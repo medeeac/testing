@@ -9,8 +9,8 @@ namespace testing
         [TestMethod]
         public void TestMethod1()
         {
-            var x = 1 + 1;
-            asas
+            var x = 1;
+            Assert.IsFalse(x == 1);
         }
     }
 }
