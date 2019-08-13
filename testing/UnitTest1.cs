@@ -9,7 +9,7 @@ namespace testing
         [TestMethod]
         public void TestMethod1()
         {
-            //dev
+            var x = 1 + 1;
         }
     }
 }
