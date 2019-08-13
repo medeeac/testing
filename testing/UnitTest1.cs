@@ -10,6 +10,7 @@ namespace testing
         public void TestMethod1()
         {
             var x = 1 + 1;
+            var x22 = x + 1;
         }
     }
 }
